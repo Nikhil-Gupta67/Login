@@ -1,0 +1,125 @@
+    body {
+        margin: 0;
+        font-family: Arial, sans-serif;
+        display: flex;
+        height: 100vh;
+        background: #f3f3f3;
+    }
+
+    .left {
+        flex: 1;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .characters {
+        display: flex;
+        gap: 30px;
+        align-items: flex-end;
+    }
+
+    .char {
+        width: 120px;
+        height: 160px;
+        border-radius: 20px;
+        position: relative;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .purple {
+        background: #6a4ff7;
+    }
+
+    .black {
+        background: #111;
+        height: 130px;
+    }
+
+    .yellow {
+        background: #f7c842;
+        height: 120px;
+    }
+
+    .orange {
+        background: #ff8a3d;
+        width: 150px;
+        height: 110px;
+        border-radius: 80px;
+    }
+
+    .eye {
+        width: 20px;
+        height: 20px;
+        background: white;
+        border-radius: 50%;
+        position: absolute;
+        overflow: hidden;
+    }
+
+    .pupil {
+        width: 10px;
+        height: 10px;
+        background: black;
+        border-radius: 50%;
+        position: absolute;
+        top: 5px;
+        left: 5px;
+        transition: 0.2s;
+    }
+
+    .right {
+        flex: 1;
+        background: white;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        box-shadow: -2px 0px 8px rgba(0, 0, 0, 0.1);
+    }
+
+    .form {
+        width: 300px;
+    }
+
+    input {
+        width: 100%;
+        padding: 12px;
+        border: 1px solid #ccc;
+        border-radius: 8px;
+        margin-bottom: 15px;
+    }
+
+    button {
+        width: 100%;
+        padding: 12px;
+        border: none;
+        background: black;
+        color: white;
+        border-radius: 8px;
+        cursor: pointer;
+    }
+
+    .password-wrapper {
+        position: relative;
+        width: 100%;
+    }
+
+    .password-wrapper input {
+        width: 100%;
+        padding: 12px;
+        border: 1px solid #ccc;
+        border-radius: 8px;
+    }
+
+    .eye-icon {
+        position: absolute;
+        right: 12px;
+        top: 50%;
+        transform: translateY(-50%);
+        cursor: pointer;
+        font-size: 18px;
+        user-select: none;
+    }
+
