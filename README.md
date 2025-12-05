@@ -32,10 +32,6 @@ Simple static Login page built with HTML, CSS and JavaScript.
 python -m http.server 8000
 # or for Python 3 explicitly:
 python3 -m http.server 8000
-```
-
-
-
 **Customizing**
 
 - Edit `index.css` to change styles and layout.
