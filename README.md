@@ -49,4 +49,6 @@ Then open `http://localhost:8000` in your browser.
 
 - No license specified. Add a `LICENSE` file if you want to define reuse terms.
 
+**Notes**
 
+- This project is intended for frontend demonstration only; do not use client-side validation as your only security measure in production.
