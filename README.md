@@ -51,4 +51,4 @@ Then open `http://localhost:8000` in your browser.
 
 **Notes**
 
-- This project is intended for frontend demonstration only; do not use client-side validation as your only security measure in production.
+ This project is intended for frontend demonstration only; do not use client-side validation as your only security measure in production.
