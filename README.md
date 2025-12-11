@@ -2,24 +2,24 @@
 
 Simple static Login page built with HTML, CSS and JavaScript.
 
-**Project overview
+\*\*Project overview
 
 - Lightweight project demonstrating a login UI with client-side validation.
 - No backend included — this is a front-end template for learning or prototyping.
 
-**Files
+\*\*Files
 
 - `index.html` : Main HTML file containing the login form and structure.
 - `index.css` : Styles for the login page.
 - `index.js` : Client-side JavaScript (form validation and interactions).
 
-**Features
+\*\*Features
 
 - Responsive form layout.
 - Basic client-side validation (see `index.js`).
 - Easy to customize and integrate with a backend.
 
-**How to run (local)
+\*\*How to run (local)
 
 - Option 1: Open directly in your browser
 
@@ -34,7 +34,7 @@ python -m http.server 8000
 python3 -m http.server 8000
 ```
 
-**Customizing**
+\*\*Customizing
 
 - Edit `index.css` to change styles and layout.
 - Edit `index.js` to change validation rules or integrate an API call to your backend.
@@ -49,4 +49,4 @@ python3 -m http.server 8000
 
 **Notes**
 
- This project is intended for frontend demonstration only; do not use client-side validation as your only security measure in production.
+This project is intended for frontend demonstration only; do not use client-side validation as your only security measure in production.
