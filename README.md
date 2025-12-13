@@ -43,7 +43,7 @@ python3 -m http.server 8000
 
 - This is a simple template — feel free to fork and adapt it.
 
-**License**
+**License
 
 - No license specified. Add a `LICENSE` file if you want to define reuse terms.
 
