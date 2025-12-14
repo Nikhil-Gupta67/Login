@@ -1,4 +1,4 @@
-# Login Page--
+# Login Page
 
 Simple static Login page built with HTML, CSS and JavaScript.
 
