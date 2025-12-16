@@ -39,14 +39,14 @@ python3 -m http.server 8000
 - Edit `index.css` to change styles and layout.
 - Edit `index.js` to change validation rules or integrate an API call to your backend.
 
-**Contributing
+\*\*Contributing--
 
 - This is a simple template — feel free to fork and adapt it.
 
-**License
+\*\*License--
 
 - No license specified. Add a `LICENSE` file if you want to define reuse terms.
 
-**Notes--
+\*\*Notes--
 
 This project is intended for frontend demonstration only; do not use client-side validation as your only security measure in production.
