@@ -19,7 +19,7 @@ Simple static Login page built with HTML, CSS and JavaScript.
 - Basic client-side validation (see `index.js`).
 - Easy to customize and integrate with a backend.
 
-\*\*How to run (local)
+\*\*How to run (local)--
 
 - Option 1: Open directly in your browser
 
