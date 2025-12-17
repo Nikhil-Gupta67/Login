@@ -34,7 +34,7 @@ python -m http.server 8000
 python3 -m http.server 8000
 ```
 
-\*\*Customizing
+\*\*Customizing--
 
 - Edit `index.css` to change styles and layout.
 - Edit `index.js` to change validation rules or integrate an API call to your backend.
