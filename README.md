@@ -13,7 +13,7 @@ Simple static Login page built with HTML, CSS and JavaScript.
 - `index.css` : Styles for the login page.
 - `index.js` : Client-side JavaScript (form validation and interactions).
 
-\*\*Features
+\*\*Features--
 
 - Responsive form layout.
 - Basic client-side validation (see `index.js`).
