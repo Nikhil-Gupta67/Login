@@ -2,7 +2,7 @@
 
 Simple static Login page built with HTML, CSS and JavaScript.
 
-\*\*Project overview--
+\*\*Project overview-
 
 - Lightweight project demonstrating a login UI with client-side validation.
 - No backend included — this is a front-end template for learning or prototyping.
